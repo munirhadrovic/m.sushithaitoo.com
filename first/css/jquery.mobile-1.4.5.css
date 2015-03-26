@@ -1488,6 +1488,7 @@ div.ui-mobile-viewport {
 	overflow: hidden;
 	white-space: nowrap;
 	outline: 0 !important;
+    font-weight: normal;
 }
 .ui-footer .ui-title {
 	margin: 0 1em;
